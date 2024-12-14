@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+# Ігнорування байткодів Python
+
+# Ігнорування бази даних
+db.sqlite3
+
+# Ігнорування віртуального середовища
+myvenv/
+
+#Ігнорування файлу setting.py
+mysite/mysite/settings.py
