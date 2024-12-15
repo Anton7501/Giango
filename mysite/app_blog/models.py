@@ -28,6 +28,7 @@ class Category(models.Model):
         return url
 
 
+
     class Meta:
         verbose_name = u'Категорія для публікації'
         verbose_name_plural = u'Категорії для публікацій'
